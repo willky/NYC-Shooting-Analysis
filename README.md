@@ -6,4 +6,4 @@ This project seeks to analyze the number of shootings across the five borough co
 
 The final product from this analysis is a Tableau dashboard which is currently hosted on Tableau Public. Follow the link in the about section of this repository to access the dashboard. 
 
-This repository contains the NYPD data used to create for the analysis. It also contains the 
+This repository contains only contains the NYPD data used to create for the analysis. The data was extracted directly from the NYC Open Data Portal and transformed using R. The R script used for the data extraction and transformation - called `Data Prep.R` has been uploaded to this repository.
